@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Limit of Balls in a Bag", "Minimum Limit of Balls in a Bag\Minimum Limit of Balls in a Bag.csproj", "{886F854A-08B0-4250-963C-665E7D37FE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886F854A-08B0-4250-963C-665E7D37FE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886F854A-08B0-4250-963C-665E7D37FE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886F854A-08B0-4250-963C-665E7D37FE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886F854A-08B0-4250-963C-665E7D37FE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA14FC3B-8E5E-4C33-84E4-32AC6E7C7AA1}
+	EndGlobalSection
+EndGlobal
